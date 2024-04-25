@@ -1,0 +1,14 @@
+.enter-x > * {
+  animation: 1s enterX;
+}
+
+@keyframes enterX {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+
+  to {
+    opacity: 1;
+  }
+}

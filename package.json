@@ -1,0 +1,41 @@
+{
+  "name": "erp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/node": "^20.4.5",
+    "@unocss/reset": "^0.53.6",
+    "@vue-flow/core": "^1.22.2",
+    "@vueuse/core": "^10.2.1",
+    "darkmode-js": "^1.5.7",
+    "element-plus": "^2.3.8",
+    "pdf-lib": "^1.17.1",
+    "pinia": "^2.1.4",
+    "print-js": "^1.6.0",
+    "v-viewer": "^3.0.11",
+    "viewerjs": "^1.11.4",
+    "vue": "^3.3.4",
+    "vue-router": "4",
+    "vxe-table": "^4.4.2",
+    "xe-utils": "^3.5.11"
+  },
+  "devDependencies": {
+    "@iconify-json/carbon": "^1.1.18",
+    "@iconify-json/solar": "^1.1.2",
+    "@unocss/preset-icons": "^0.53.6",
+    "@unocss/preset-rem-to-px": "^0.53.6",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "typescript": "^5.0.2",
+    "unocss": "^0.53.6",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-vue-components": "^0.25.1",
+    "vite": "^4.4.5",
+    "vue-tsc": "^1.8.5"
+  }
+}

@@ -1,0 +1,7 @@
+.el-menu--horizontal {
+  border-bottom: none !important;
+}
+
+.el-menu {
+  border-right: none !important;
+}

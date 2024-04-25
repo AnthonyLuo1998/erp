@@ -1,0 +1,5 @@
+html.dark {
+  /* element-plus */
+  --el-menu-text-color: rgba(235, 235, 235, 0.6);
+  --brand-color: #409eff;
+}
